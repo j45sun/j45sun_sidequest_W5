@@ -86,7 +86,7 @@ function draw() {
   noStroke();
   text("On the Moon", 10, 18);
   text("A/D or ←/→ move • Space/W/↑ jump", 10, 36);
-  text("Go to the for a surprise!", 10, 54);
+  text("Go to the end for a surprise!", 10, 54);
 }
 
 function keyPressed() {
